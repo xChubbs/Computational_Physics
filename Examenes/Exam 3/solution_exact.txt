@@ -1,0 +1,6 @@
+ Remember the order of the solution vector:
+   X = [ a : acceleration, T : Tension , R : Tension]
+
+   8.5941176470588232     
+   34.411764705882341     
+   36.764705882352956     

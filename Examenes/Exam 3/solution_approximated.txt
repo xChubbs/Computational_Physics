@@ -1,0 +1,10 @@
+ Remember the order of the solution vector:
+   X = [ a : acceleration, T : Tension , R : Tension]
+
+ For this aproximation we obtained
+   - iterations needed:          115
+  - Error estimated for aproximation:   6.2527761E-13
+
+   8.5941176470588214     
+   34.411764705882774     
+   36.764705882352871     
